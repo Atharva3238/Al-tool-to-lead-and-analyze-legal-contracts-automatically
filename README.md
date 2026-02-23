@@ -5,27 +5,45 @@ An AI-powered legal contract analysis system that helps users quickly understand
 This project leverages modern NLP and Retrieval-Augmented Generation (RAG) techniques to automate contract understanding, enabling faster and more accurate legal review.
 
 🚀 Features
+
 📂 Upload and process legal contracts
+
 🔍 Intelligent contract analysis
+
 🧠 AI-powered question answering on contracts
+
 📑 Key clause extraction
+
 ⚡ Retrieval-Augmented Generation (RAG) pipeline
+
 💬 Interactive interface for legal queries
+
 🧩 Supports complex legal terminology
 
 🏗️ Project Overview
+
 Legal contracts are often long and complex. This tool aims to:
+
 Reduce manual review time
+
 Improve contract comprehension
+
 Provide instant answers from documents
+
 Assist legal professionals and businesses
+
 The system combines large language models (LLMs) with retrieval mechanisms to produce context-aware responses from contract data.
 
 🧠 How It Works
+
 User uploads a legal contract
+
 Text is extracted and chunked
+
 Relevant sections are retrieved using vector search
+
 LLM generates context-aware answers
+
 Results are displayed through the interface
 
 
