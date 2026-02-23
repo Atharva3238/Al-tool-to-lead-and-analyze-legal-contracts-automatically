@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "contract_classifier": "graph:graph"
+  }
+}

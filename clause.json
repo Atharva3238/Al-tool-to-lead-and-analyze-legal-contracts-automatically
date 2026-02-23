@@ -1,0 +1,173 @@
+[
+  {
+    "contract_type": "General Clauses",
+    "clauses": [
+      {
+        "clause_title": "Severability",
+        "clause_text": "If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision shall be severed and the remaining provisions shall continue in full force and effect and shall not be affected or impaired thereby.",
+        "metadata": {
+          "source": "SEC EDGAR Commercial Agreements",
+          "jurisdiction": "USA/Standard",
+          "version": "EDGAR-Std-v1",
+          "last_updated": "2023-09-15"
+        }
+      },
+      {
+        "clause_title": "Entire Agreement",
+        "clause_text": "This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, negotiations, representations, and understandings, whether written or oral, relating to such subject matter.",
+        "metadata": {
+          "source":"Law Insider Employment Agreements",
+          "jurisdiction": "Global/Standard",
+          "version": "LI-Std-v2",
+          "last_updated": "2024-01-10"
+        }
+      },
+      {
+        "clause_title": "Acknowledgment of Counsel",
+        "clause_text": "Each Party acknowledges that it has had the opportunity to consult with independent legal counsel of its own choosing regarding the terms and conditions of this Agreement and that it has read and understands this Agreement.",
+        "metadata": {
+          "source":"SEC EDGAR Executive Agreements",
+          "jurisdiction": "USA / Standard",
+          "version": "EDGAR-Legal-v1",
+          "last_updated": "2023-08-01"
+        }
+      }
+    ]
+  },
+  {
+    "contract_type": "Employment Agreement",
+    "clauses": [
+      {
+        "clause_title": "Intellectual Property Ownership",
+        "clause_text": "All inventions, discoveries, developments, works of authorship, software, designs, improvements, or trade secrets conceived, developed, or reduced to practice by the Employee, either alone or jointly with others, during the course of employment and relating to the business of the Company shall be the exclusive property of the Company. Such works shall be deemed works made for hire to the extent permitted by law.",
+        "metadata": {
+          "source": "SEC EDGAR Technology Company Employment Agreements",
+          "jurisdiction": "India / USA (Standard)",
+          "version": "IP-Employment-Std-v1",
+          "last_updated": "2023-11-20"
+        }
+      },
+      {
+        "clause_title": "Confidentiality Obligations",
+        "clause_text": "The Employee agrees that during the term of employment and thereafter, the Employee shall not disclose, use, or permit the use of any Confidential Information of the Company except as required in the performance of duties for the Company. Confidential Information includes all non-public business, technical, financial, or proprietary information.",
+        "metadata": {
+          "source": "OneNDA / SEC EDGAR Employment Templates",
+          "jurisdiction": "Global / Standard",
+          "version": "Conf-Employment-v2",
+          "last_updated": "2024-02-05"
+        }
+      },
+      {
+        "clause_title": "Non-Solicitation of Employees and Clients",
+        "clause_text": "During the term of employment and for a period of twelve (12) months following termination, the Employee shall not, directly or indirectly, solicit or attempt to solicit any employee, contractor, customer, or client of the Company for the purpose of terminating or altering their relationship with the Company.",
+        "metadata": {
+          "source": "SEC EDGAR Executive Employment Agreements",
+          "jurisdiction": "USA/Standard",
+          "version": "NonSolicit-Exec-v1",
+          "last_updated": "2023-10-01"
+        }
+      },
+      {
+        "clause_title": "Non-Solicitation (General Advertisement Exception)",
+        "clause_text": "Nothing in this Agreement shall prohibit the Employee from placing general advertisements in newspapers, trade publications, or electronic media that are not specifically targeted at employees of the Company, provided that such advertisements do not otherwise violate the non-solicitation obligations set forth herein.",
+        "metadata": {
+          "source": "Law Insider Employment Contract Clauses",
+          "jurisdiction": "USA/Standard",
+          "version": "NonSolicit-Exception-v1",
+          "last_updated": "2024-01-15"
+        }
+      }
+    ]
+  },
+  {
+    "contract_type": "Government Standard (FAR)",
+    "clauses": [
+      {
+        "clause_title": "Termination for Convenience",
+        "clause_text": "The Government may terminate performance of work under this contract, in whole or in part, if the Contracting Officer determines that a termination is in the Government’s interest. Upon receipt of the notice of termination, the Contractor shall immediately stop work, place no further subcontracts, and take all reasonable steps to minimize costs allocable to the terminated portion of the contract.",
+        "metadata": {
+          "source": "Federal Acquisition Regulation (FAR)",
+          "jurisdiction": "United States Federal",
+          "version": "FAR 52.249-2",
+          "last_updated": "2012-04-01"
+        }
+      },
+      {
+        "clause_title": "Audit and Records Maintenance",
+        "clause_text": "The Contractor shall maintain all records and documents relating to the terminated portion of this contract for a period of three (3) years after final settlement. The Contractor shall make such records available to the Government at all reasonable times for examination, audit, or reproduction without direct charge.",
+        "metadata": {
+          "source": "Federal Acquisition Regulation (FAR)",
+          "jurisdiction": "United States Federal",
+          "version": "FAR 52.249-2(n)",
+          "last_updated": "2012-04-01"
+        }
+      },
+      {
+        "clause_title": "Audit and Records-Negotiation",
+        "clause_text": "The Contractor shall maintain and the Contracting Officer or an authorized representative shall have the right to examine and audit all records and other evidence sufficient to reflect properly all costs claimed to have been incurred or anticipated to be incurred directly or indirectly in performance of this contract. This right includes inspection at all reasonable times of the Contractor’s facilities and records.",
+        "metadata": {
+          "source": "Federal Acquisition Regulation (FAR)",
+          "jurisdiction": "United States Federal",
+          "version": "FAR 52.215-2",
+          "last_updated": "2020-06-01",
+          "primary_agent": "Compliance/Finance"
+        }
+      }
+    ]
+  },
+  {
+    "contract_type": "Non-Disclosure Agreement (NDA)",
+    "clauses": [
+      {
+        "clause_title": "Definition of Confidential Information",
+        "clause_text": "Confidential Information means any non-public information disclosed by the Disclosing Party to the Receiving Party, whether orally, in writing, electronically, or otherwise, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure.",
+        "metadata": {
+           "source": "OneNDA Open NDA Standard",
+           "jurisdiction": "Global / Standard",
+           "version": "OneNDA-Def-v1",
+           "last_updated": "2023-07-01"
+        }
+      },
+      {
+        "clause_title": "Obligations of Receiving Party",
+        "clause_text": "The Receiving Party shall hold the Confidential Information in strict confidence and shall not disclose such Confidential Information to any third party except as permitted under this Agreement. The Receiving Party shall use the Confidential Information solely for the Purpose and shall protect it using at least the same degree of care as it uses to protect its own confidential information.",
+        "metadata": {
+           "source": "Law Insider NDA Templates",
+           "jurisdiction": "Global / Standard",
+           "version": "NDA-Obligation-v2",
+           "last_updated": "2024-01-20"
+        }
+      },
+      {
+        "clause_title": "Exclusions from Confidential Information",
+        "clause_text": "Confidential Information shall not include information that is or becomes publicly available through no breach of this Agreement, was lawfully known to the Receiving Party prior to disclosure, is independently developed without reference to the Confidential Information, or is rightfully received from a third party without restriction.",
+        "metadata": {
+          "source": "OneNDA / Commercial NDA Templates",
+          "jurisdiction": "Global / Standard",
+          "version": "NDA-Exclusion-v1",
+          "last_updated": "2023-11-10"
+        }
+      },
+      {
+        "clause_title": "Term and Survival",
+        "clause_text": "This Agreement shall commence on the Effective Date and continue for a period of two (2) years unless terminated earlier. The obligations with respect to Confidential Information disclosed during the term shall survive termination of this Agreement for a period of three (3) years.",
+        "metadata": {
+         "source": "SEC EDGAR NDA Agreements",
+         "jurisdiction": "Global / Standard",
+         "version": "NDA-Term-v1",
+         "last_updated": "2023-09-05"
+        }
+      },
+      {
+        "clause_title": "Permitted Disclosure",
+        "clause_text": "The Receiving Party may disclose Confidential Information to the extent required by applicable law, regulation, or court order, provided that the Receiving Party gives prompt notice to the Disclosing Party and cooperates in seeking protective treatment of such disclosure.",
+        "metadata": {
+         "source": "OneNDA Legal Disclosure Clause",
+         "jurisdiction": "Global / Standard",
+         "version": "NDA-Legal-Disclosure-v1",
+         "last_updated": "2024-02-01"
+        }
+      }
+    ]
+  }
+]
