@@ -46,38 +46,49 @@ LLM generates context-aware answers
 
 Results are displayed through the interface
 
-
-Installation
-1️) Clone the repository
+⚙️ Installation
+1️⃣ Clone the repository
 git clone https://github.com/Atharva3238/Al-tool-to-lead-and-analyze-legal-contracts-automatically.git
 cd Al-tool-to-lead-and-analyze-legal-contracts-automatically
-
-2)Create virtual environment (recommended)
+2️⃣ Create virtual environment (recommended)
 python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
 
-3)Install dependencies
+# Mac/Linux
+source venv/bin/activate
+
+# Windows
+venv\Scripts\activate
+3️⃣ Install dependencies
 pip install -r requirements.txt
-
-Usage
+▶️ Usage
 
 Run the application:
+
 streamlit run app/main.py
 
 Then open your browser at:
-http://localhost:8501
 
+http://localhost:8501
 🧪 Example Use Cases
+
 Contract risk review
+
 Legal document summarization
+
 Clause identification
+
 Due diligence automation
+
 Business contract analysis
 
 🔮 Future Improvements
+
 Multi-language contract support
+
 Better legal risk scoring
+
 Contract comparison
+
 Fine-tuned legal LLM
+
 Production deployment
